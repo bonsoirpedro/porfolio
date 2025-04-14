@@ -150,19 +150,40 @@ strong {
 
 @media (max-width: 768px) {
     .cabecalho {
-        padding: 10%;
+        padding: 5% 5%;
     }
-    
-    .cabecalho__menu{
-        justify-content: center;
+
+    .cabecalho__menu {
+        flex-direction: column;
+        align-items: center;
+        gap: 20px; /* menos espaço */
     }
 
     .apresentacao {
         flex-direction: column-reverse;
+        align-items: center;
         padding: 5%;
+        gap: 40px;
+        text-align: center;
     }
 
     .apresentacao__conteudo {
-        width: auto;
+        width: 100%;
+        padding: 0;
+    }
+
+    .apresentacao__conteudo__titulo,
+    .apresentacao__conteudo__texto {
+        text-align: center;
+    }
+
+    .apresentacao__imagem {
+        width: 100%;
+        max-width: 300px;
+    }
+
+    .apresentacao__links__botao {
+        width: 100%;
+        max-width: 300px; /* evita sair da tela */
     }
 }
