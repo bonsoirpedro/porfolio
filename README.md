@@ -2,7 +2,7 @@
 
 Bem-vindo(a) ao meu portfólio! Este repositório apresenta quem sou, meus projetos, experiências e formas de contato. Ele foi desenvolvido com foco em simplicidade, responsividade e uma boa dose de personalidade. 😉
 
-🔗 Acesse online: [Link Aqui](https://porfolio-black-sigma.vercel.app/)
+🔗 Acesse online: [Link Aqui](https://porfolio-lake-nine.vercel.app/)
 
 ---
 
