@@ -41,7 +41,7 @@ Bem-vindo(a) ao meu portfólio! Este repositório apresenta quem sou, meus proje
 
 Sinta-se à vontade para visitar meu portfólio online ou me seguir nas redes sociais!
 
-- [LinkedIn]((https://www.linkedin.com/in/pedro-rod-branco/))
+- [LinkedIn](https://www.linkedin.com/in/pedro-rod-branco/)
 - [GitHub](https://github.com/bonsoirpedro)
 
 ---
